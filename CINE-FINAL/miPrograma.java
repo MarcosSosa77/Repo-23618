@@ -2,10 +2,10 @@
 
 public class miPrograma {
 
-    public static void main(String[] args)
-    {
-        ProgramaCine.IniciarProgramaCine();
-    }
+   // public static void main(String[] args)
+   // {
+   //     ProgramaCine.IniciarProgramaCine();
+   // }
 }
 
 
